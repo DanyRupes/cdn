@@ -1,0 +1,46 @@
+{
+  "title": "templates",
+  "description": "templates",
+  "templates": [
+    {
+      "id": "base-m-bee",
+      "name": "templates.base-m-bee",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.base-m-bee.png"
+    },
+    {
+      "id": "base-newsletter",
+      "name": "templates.base-newsletter",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.base-newsletter.png"
+    },
+    {
+      "id": "base-one-column",
+      "name": "templates.base-one-column",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.base-one-column.png"
+    },
+    {
+      "id": "base-promo",
+      "name": "templates.base-promo",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.base-promo.png"
+    },
+    {
+      "id": "m-bee",
+      "name": "templates.m-bee",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.m-bee.png"
+    },
+    {
+      "id": "newsletter",
+      "name": "templates.newsletter",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.newsletter.png"
+    },
+    {
+      "id": "one-column",
+      "name": "templates.one-column",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.one-column.png"
+    },
+    {
+      "id": "promo",
+      "name": "templates.promo",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.promo.png"
+    }
+  ]
+}
