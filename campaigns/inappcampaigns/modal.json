@@ -1,0 +1,28 @@
+{
+    "title": "templates",
+    "description": "templates",
+    "templates": [{
+        "id": "template1_popup",
+        "name": "template1",
+        "thumbnail": "img/inapp/templates/template_1_popup.jpg"
+    },{
+        "id": "template2_popup",
+        "name": "template2",
+        "thumbnail": "img/inapp/templates/template_2_popup.jpg"
+    },
+    {
+        "id": "template3_popup",
+        "name": "template3",
+        "thumbnail": "img/inapp/templates/template_3_popup.jpg"
+    },
+    {
+        "id": "template4_popup",
+        "name": "template4",
+        "thumbnail": "img/inapp/templates/template_4_popup.jpg"
+    },
+    {
+        "id": "template5_popup",
+        "name": "template5",
+        "thumbnail": "img/inapp/templates/template_5_popup.jpg"
+    }]
+}
