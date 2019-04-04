@@ -1,0 +1,29 @@
+{
+    "title": "templates",
+    "description": "templates",
+    "templates": [{
+        "id": "template1_topbar",
+        "name": "Template 1",
+        "thumbnail": "img/inapp/templates/template_1_topbar.jpg"
+    },
+    {
+        "id": "template2_topbar",
+        "name": "Template 2",
+        "thumbnail": "img/inapp/templates/template_2_topbar.jpg"
+    },
+    {
+        "id": "template3_topbar",
+        "name": "Template 3",
+        "thumbnail": "img/inapp/templates/template_3_topbar.jpg"
+    },
+    {
+        "id": "template4_topbar",
+        "name": "Template 4",
+        "thumbnail": "img/inapp/templates/template_4_topbar.jpg"
+    },
+    {
+        "id": "template5_topbar",
+        "name": "Template 5",
+        "thumbnail": "img/inapp/templates/template_5_topbar.jpg"
+    }]
+}

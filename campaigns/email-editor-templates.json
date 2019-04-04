@@ -1,0 +1,51 @@
+{
+  "title": "templates",
+  "description": "templates",
+  "templates": [
+    {
+      "id": "templates.abandoned_cart",
+      "name": "templates.abandoned_cart",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.base-m-bee.png"
+    },
+    {
+      "id": "templates.abandoned_cart_1",
+      "name": "templates.abandoned_cart_1",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.base-m-bee.png"
+    },
+    {
+      "id": "templates.abandoned_cart_2",
+      "name": "templates.abandoned_cart_2",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.base-m-bee.png"
+    },
+    {
+      "id": "templates.abandoned_cart_3",
+      "name": "templates.abandoned_cart_3",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.base-m-bee.png"
+    },
+    {
+      "id": "templates.gift_card",
+      "name": "templates.gift_card",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.base-m-bee.png"
+    },
+    {
+      "id": "templates.offer_sale",
+      "name": "templates.offer_sale",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.base-m-bee.png"
+    },
+    {
+      "id": "templates.welcome_1",
+      "name": "templates.welcome_1",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.base-m-bee.png"
+    },
+    {
+      "id": "templates.notification",
+      "name": "templates.notification",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.base-m-bee.png"
+    },
+    {
+      "id": "templates.send_coupon_code",
+      "name": "templates.send_coupon_code",
+      "thumbnail": "https://cdn.campaignrabbit.com/images/templates/templates.base-m-bee.png"
+    }
+  ]
+}
