@@ -3,6 +3,12 @@
   "description": "templates",
   "templates": [
     {
+      "id": "blank",
+      "name": "Blank",
+      "description": "Blank",
+      "thumbnail": "https://cdn.campaignrabbit.com/campaignrabbit/templates/images/blank.png"
+    },
+    {
       "id": "abandoned-cart-design-1",
       "name": "Something in your cart",
       "description": "Abandoned cart emails",
